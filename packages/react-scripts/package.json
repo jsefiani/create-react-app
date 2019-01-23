@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
-  "version": "2.1.3",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebook/create-react-app",
+  "name": "@jsefiani/react-scripts",
+  "version": "1.1.1",
+  "description": "Custom configuration and scripts for Create React App.",
+  "repository": "jsefiani/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/jsefiani/create-react-app/issues"
   },
   "files": [
     "bin",
